@@ -5,10 +5,10 @@
 //  Created by MITTUL KUMAR on 26/06/23.
 //
 
-#include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+#include <iostream> //this is a header
+using namespace std;
+int main()
+{
+    cout<<"hello world"; //this will print out hello world
     return 0;
 }
