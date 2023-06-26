@@ -12,3 +12,5 @@ int main()
     cout<<"hello world"; //this will print out hello world
     return 0;
 }
+/*double line comments
+ is here*/
